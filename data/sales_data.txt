@@ -1,0 +1,60 @@
+SD001,ITM013,Juice,73,2025-04-04,OW035,Replenished after flash sale.
+SD002,ITM018,Fish,139,2025-04-08,OW028,New cafe opening nearby.
+SD003,ITM016,Oil,111,2025-04-09,OW009,Popular with diet plans.
+SD004,ITM018,Fish,78,2025-04-26,OW045,Popular with diet plans.
+SD005,ITM019,Herbs,126,2025-04-22,OW017,Regular bulk order from school.
+SD006,ITM009,Cucumber,54,2025-04-17,OW045,Festival prep orders.
+SD007,ITM015,Rice,139,2025-04-04,OW011,Cross-promoted in flyer deals.
+SD008,ITM007,Bread,99,2025-04-25,OW009,Restock required daily.
+SD009,ITM002,Onion,71,2025-04-13,OW035,New cafe opening nearby.
+SD010,ITM009,Cucumber,112,2025-04-17,OW021,Low demand due to expiry.
+SD011,ITM007,Bread,80,2025-04-14,OW028,New cafe opening nearby.
+SD012,ITM010,Yogurt,136,2025-04-17,OW001,Restock required daily.
+SD013,ITM003,Milk,75,2025-04-06,OW042,Restock required daily.
+SD014,ITM003,Milk,119,2025-04-23,OW041,Steady flow from market booth.
+SD015,ITM013,Juice,103,2025-04-28,OW042,Cross-promoted in flyer deals.
+SD016,ITM016,Oil,128,2025-04-07,OW011,High demand from local grocers.
+SD017,ITM010,Yogurt,99,2025-04-15,OW011,Low demand due to expiry.
+SD018,ITM014,Pastry,98,2025-04-28,OW035,Restock required daily.
+SD019,ITM019,Herbs,114,2025-04-16,OW032,Weekend shopping rush.
+SD020,ITM013,Juice,129,2025-04-30,OW035,Regular bulk order from school.
+SD021,ITM012,Spinach,87,2025-04-30,OW021,Steady flow from market booth.
+SD022,ITM003,Milk,66,2025-04-14,OW041,Cross-promoted in flyer deals.
+SD023,ITM007,Bread,91,2025-04-16,OW017,Cross-promoted in flyer deals.
+SD024,ITM005,Carrot,84,2025-04-26,OW017,Sales increased due to hot weather.
+SD025,ITM003,Milk,114,2025-04-08,OW028,Back-to-school supply spike.
+SD026,ITM014,Pastry,52,2025-04-02,OW045,Popular with diet plans.
+SD027,ITM011,Banana,91,2025-04-17,OW017,Sales increased due to hot weather.
+SD028,ITM001,Tomato,99,2025-04-29,OW006,Replenished after flash sale.
+SD029,ITM013,Juice,66,2025-04-09,OW035,Back-to-school supply spike.
+SD030,ITM019,Herbs,72,2025-04-18,OW021,Replenished after flash sale.
+SD031,ITM012,Spinach,142,2025-04-04,OW021,Festival prep orders.
+SD032,ITM015,Rice,76,2025-04-04,OW042,Recommended by local chefs.
+SD033,ITM012,Spinach,138,2025-04-22,OW004,Festival prep orders.
+SD034,ITM002,Onion,79,2025-04-19,OW018,Festival prep orders.
+SD035,ITM018,Fish,66,2025-04-30,OW011,Popular with diet plans.
+SD036,ITM017,Orange,100,2025-06-02,OW011,Low demand due to expiry.
+SD037,ITM012,Spinach,118,2025-04-27,OW001,Recommended by local chefs.
+SD038,ITM010,Yogurt,51,2025-04-05,OW042,Back-to-school supply spike.
+SD039,ITM012,Spinach,131,2025-04-02,OW009,New cafe opening nearby.
+SD040,ITM018,Fish,81,2025-04-17,OW001,Recommended by local chefs.
+SD042,ITM011,Banana,58,2025-04-25,OW018,Low demand due to expiry.
+SD043,ITM012,Spinach,118,2025-04-22,OW001,Recommended by local chefs.
+SD044,ITM013,Juice,89,2025-04-06,OW042,Low demand due to expiry.
+SD045,ITM009,Cucumber,148,2025-04-15,OW032,Customer demand rising.
+SD047,ITM009,Cucumber,112,2025-04-08,OW042,Sales increased due to hot weather.
+SD048,ITM011,Banana,86,2025-04-22,OW042,Back-to-school supply spike.
+SD049,ITM007,Bread,92,2025-04-12,OW045,Restock required daily.
+SD050,ITM014,Pastry,71,2025-04-30,OW041,Customer demand rising.
+SD051,ITM001,Cheese,6,2025-05-12,OW011,wow
+SD053,ITM001,Cheese,80,2025-05-15,OW011,jh
+SD054,ITM302,jun,40,2025-05-15,OW011,k
+SD056,ITM303,y,30,2025-05-26,OW053,zer
+SD057,ITM304,w,30,2025-05-26,OW053,zedf
+SD058,ITM305,x,30,2025-05-26,OW053,j
+SD059,ITM306,c,30,2025-05-26,OW053,sd
+SD060,ITM307,Milo,43,2025-05-26,OW011,....
+SD061,ITM308,fruta,30,2025-06-02,OW011,
+SD062,ITM309,disfruta,15,2025-06-02,OW011,
+SD063,ITM309,disfruta,15,2025-06-02,OW011,
+SD064,ITM309,disfruta,15,2025-06-02,OW011,

@@ -1,0 +1,300 @@
+ITM001,Cheese,SUP097,25,4.75,3.80,Dairy,2025-04-21,Locally sourced.
+ITM002,Lettuce,SUP086,78,9.25,7.40,Vegetables,2025-04-23,Popular in recipes.
+ITM003,Orange,SUP089,92,9.88,7.90,Fruits,2025-04-16,Imported product.
+ITM004,Herbs,SUP019,88,4.09,3.27,Spices,2025-04-18,Seasonal favorite.
+ITM005,Cheese,SUP056,95,4.57,3.66,Dairy,2025-04-20,Low stock - reorder soon.
+ITM006,Butter,SUP092,82,2.44,1.95,Dairy,2025-04-18,Imported product.
+ITM007,Yogurt,SUP004,99,7.29,5.83,Dairy,2025-05-20,Used in salads.
+ITM008,Spinach,SUP022,87,4.56,3.65,Vegetables,2025-04-25,Best-selling item.
+ITM009,Cheese,SUP053,84,1.38,1.10,Dairy,2025-04-17,Fresh from supplier.
+ITM010,Apple,SUP049,79,1.88,1.50,Fruits,2025-04-16,Organic.
+ITM011,Cheese,SUP079,76,5.95,4.76,Dairy,2025-04-21,Seasonal favorite.
+ITM012,Yogurt,SUP032,83,1.04,0.83,Dairy,2025-04-15,Imported product.
+ITM013,Cheese,SUP014,75,9.1,7.28,Dairy,2025-04-24,Best-selling item.
+ITM014,Spinach,SUP032,8,9.24,7.39,Vegetables,2025-04-15,Baked fresh daily.
+ITM015,Tomato,SUP056,93,4.93,3.94,Vegetables,2025-04-24,Low stock - reorder soon.
+ITM016,Lettuce,SUP078,81,3.38,2.70,Vegetables,2025-04-17,Baked fresh daily.
+ITM017,Herbs,SUP061,77,8.71,6.97,Spices,2025-04-22,Seasonal favorite.
+ITM018,Butter,SUP007,86,5.02,4.02,Dairy,2025-04-17,Low stock - reorder soon.
+ITM019,Pastry,SUP042,94,7.49,5.99,Bakery,2025-04-21,Locally sourced.
+ITM020,Fish,SUP084,90,2.67,2.14,Seafood,2025-04-22,Best-selling item.
+ITM021,Herbs,SUP045,88,2.8,2.24,Spices,2025-04-17,Organic.
+ITM022,Butter,SUP031,91,6.62,5.30,Dairy,2025-04-19,Fresh from supplier.
+ITM023,Yogurt,SUP045,72,5.7,4.56,Dairy,2025-04-21,Fresh from supplier.
+ITM024,Carrot,SUP099,80,3.46,2.77,Vegetables,2025-04-24,Locally sourced.
+ITM025,Rice,SUP021,68,1.33,1.06,Grains,2025-04-21,Popular in recipes.
+ITM026,Orange,SUP089,74,9.89,7.91,Fruits,2025-04-20,Seasonal favorite.
+ITM027,Apple,SUP078,84,8.54,6.83,Fruits,2025-04-22,Seasonal favorite.
+ITM028,Tomato,SUP007,67,5.73,4.58,Vegetables,2025-04-21,Baked fresh daily.
+ITM029,Cheese,SUP026,89,2.26,1.81,Dairy,2025-04-17,Seasonal favorite.
+ITM030,Herbs,SUP025,73,1.56,1.25,Spices,2025-04-18,Used in salads.
+ITM031,Rice,SUP081,71,1.73,1.38,Grains,2025-04-23,Fresh from supplier.
+ITM032,Orange,SUP096,75,3.8,3.04,Fruits,2025-04-18,Organic.
+ITM033,Juice,SUP016,82,9.96,7.97,Beverages,2025-04-18,Low stock - reorder soon.
+ITM034,Apple,SUP027,74,9.36,7.49,Fruits,2025-04-15,Best-selling item.
+ITM035,Cucumber,SUP003,72,4.63,3.70,Vegetables,2025-04-16,Popular in recipes.
+ITM036,Pastry,SUP044,74,3.61,2.89,Bakery,2025-04-24,Locally sourced.
+ITM037,Juice,SUP020,78,8.17,6.54,Beverages,2025-04-16,Best-selling item.
+ITM038,Rice,SUP097,79,7.42,5.94,Grains,2025-04-20,Used in salads.
+ITM039,Rice,SUP094,83,6.3,5.04,Grains,2025-04-18,Popular in recipes.
+ITM040,Herbs,SUP090,87,7.06,5.65,Spices,2025-04-19,Used in salads.
+ITM041,Orange,SUP067,90,2.38,1.90,Fruits,2025-04-19,Best-selling item.
+ITM042,Yogurt,SUP100,84,3.45,2.76,Dairy,2025-04-18,Locally sourced.
+ITM043,Banana,SUP041,80,3.07,2.46,Fruits,2025-04-15,Popular in recipes.
+ITM044,Bread,SUP088,74,7.16,5.73,Bakery,2025-04-15,Organic.
+ITM045,Butter,SUP099,82,4.14,3.31,Dairy,2025-04-18,Imported product.
+ITM046,Yogurt,SUP008,76,3.67,2.94,Dairy,2025-04-17,Imported product.
+ITM047,Herbs,SUP035,65,4.19,3.35,Spices,2025-04-18,Low stock - reorder soon.
+ITM048,Herbs,SUP018,77,3.92,3.14,Spices,2025-04-20,Best-selling item.
+ITM049,Orange,SUP030,83,1.5,1.20,Fruits,2025-04-16,Imported product.
+ITM050,Lettuce,SUP090,71,7.47,5.98,Vegetables,2025-04-18,Used in salads.
+ITM051,Spinach,SUP058,80,8.32,6.66,Vegetables,2025-04-25,Seasonal favorite.
+ITM052,Oil,SUP055,74,6.95,5.56,Oils,2025-04-25,Best-selling item.
+ITM053,Cucumber,SUP019,91,9.72,7.78,Vegetables,2025-04-23,Imported product.
+ITM054,Herbs,SUP006,93,7.67,6.14,Spices,2025-04-24,Baked fresh daily.
+ITM055,Fish,SUP010,66,6.0,4.80,Seafood,2025-04-19,Used in salads.
+ITM056,Lettuce,SUP053,71,7.14,5.71,Vegetables,2025-04-19,Low stock - reorder soon.
+ITM057,Herbs,SUP028,80,9.41,7.53,Spices,2025-04-16,Fresh from supplier.
+ITM058,Juice,SUP047,72,8.49,6.79,Beverages,2025-04-25,Imported product.
+ITM059,Spinach,SUP049,87,7.27,5.82,Vegetables,2025-04-16,Locally sourced.
+ITM060,Juice,SUP092,80,9.48,7.58,Beverages,2025-04-16,Best-selling item.
+ITM061,Oil,SUP006,69,2.2,1.76,Oils,2025-04-15,Imported product.
+ITM062,Bread,SUP020,86,2.4,1.92,Bakery,2025-04-15,Used in salads.
+ITM063,Fish,SUP076,96,4.44,3.55,Seafood,2025-04-20,Used in salads.
+ITM064,Apple,SUP072,69,4.17,3.34,Fruits,2025-04-25,Popular in recipes.
+ITM065,Lettuce,SUP022,92,5.52,4.42,Vegetables,2025-04-15,Locally sourced.
+ITM066,Yogurt,SUP022,73,1.09,0.87,Dairy,2025-04-21,Used in salads.
+ITM067,Herbs,SUP040,94,4.4,3.52,Spices,2025-04-16,Organic.
+ITM068,Pastry,SUP005,76,2.39,1.91,Bakery,2025-04-20,Used in salads.
+ITM069,Pastry,SUP004,88,6.33,5.06,Bakery,2025-04-22,Low stock - reorder soon.
+ITM070,Yogurt,SUP046,81,9.57,7.66,Dairy,2025-04-22,Locally sourced.
+ITM071,Carrot,SUP025,67,4.7,3.76,Vegetables,2025-04-17,Best-selling item.
+ITM072,Yogurt,SUP055,71,9.73,7.78,Dairy,2025-04-20,Baked fresh daily.
+ITM073,Rice,SUP003,64,7.5,6.00,Grains,2025-04-16,Best-selling item.
+ITM074,Herbs,SUP063,96,9.07,7.26,Spices,2025-04-15,Organic.
+ITM075,Oil,SUP092,78,7.36,5.89,Oils,2025-04-19,Best-selling item.
+ITM076,Yogurt,SUP067,92,1.86,1.49,Dairy,2025-04-24,Imported product.
+ITM077,Oil,SUP020,78,2.86,2.29,Oils,2025-04-24,Organic.
+ITM078,Bread,SUP077,78,9.51,7.61,Bakery,2025-04-23,Seasonal favorite.
+ITM079,Milk,SUP066,72,9.09,7.27,Dairy,2025-04-24,Imported product.
+ITM081,Banana,SUP058,68,4.03,3.22,Fruits,2025-04-21,Seasonal favorite.
+ITM082,Butter,SUP020,89,5.32,4.26,Dairy,2025-04-25,Locally sourced.
+ITM083,Cucumber,SUP021,77,7.79,6.23,Vegetables,2025-04-18,Used in salads.
+ITM084,Butter,SUP016,84,3.4,2.72,Dairy,2025-04-21,Popular in recipes.
+ITM085,Cheese,SUP044,76,1.2,0.96,Dairy,2025-04-23,Used in salads.
+ITM086,Fish,SUP037,66,1.57,1.26,Seafood,2025-04-23,Locally sourced.
+ITM087,Butter,SUP009,94,3.09,2.47,Dairy,2025-04-25,Locally sourced.
+ITM088,Cheese,SUP047,81,1.46,1.17,Dairy,2025-04-16,Locally sourced.
+ITM089,Carrot,SUP056,72,6.27,5.02,Vegetables,2025-04-17,Popular in recipes.
+ITM090,Herbs,SUP015,64,2.11,1.69,Spices,2025-04-18,Organic.
+ITM091,Yogurt,SUP055,82,3.47,2.78,Dairy,2025-04-22,Baked fresh daily.
+ITM092,Cucumber,SUP081,72,6.43,5.14,Vegetables,2025-04-16,Popular in recipes.
+ITM093,Bread,SUP069,85,9.57,7.66,Bakery,2025-04-22,Best-selling item.
+ITM094,Carrot,SUP085,70,3.21,2.57,Vegetables,2025-04-22,Used in salads.
+ITM095,Onion,SUP039,80,2.48,1.98,Vegetables,2025-04-21,Organic.
+ITM096,Rice,SUP039,79,5.66,4.53,Grains,2025-04-23,Low stock - reorder soon.
+ITM097,Cucumber,SUP056,72,9.43,7.54,Vegetables,2025-04-15,Baked fresh daily.
+ITM098,Spinach,SUP011,70,4.75,3.80,Vegetables,2025-04-22,Used in salads.
+ITM099,Carrot,SUP006,73,4.71,3.77,Vegetables,2025-04-24,Fresh from supplier.
+ITM100,Carrot,SUP049,68,5.22,4.18,Vegetables,2025-04-18,Best-selling item.
+ITM101,Orange,SUP093,75,5.39,4.31,Fruits,2025-04-25,Low stock - reorder soon.
+ITM102,Carrot,SUP008,72,2.28,1.82,Vegetables,2025-04-21,Best-selling item.
+ITM103,Rice,SUP091,66,3.38,2.70,Grains,2025-04-17,Used in salads.
+ITM104,Cucumber,SUP086,86,2.51,2.01,Vegetables,2025-04-15,Best-selling item.
+ITM105,Fish,SUP054,88,8.02,6.42,Seafood,2025-04-20,Organic.
+ITM106,Tomato,SUP088,70,8.64,6.91,Vegetables,2025-04-22,Baked fresh daily.
+ITM107,Oil,SUP040,77,6.0,4.80,Oils,2025-04-24,Popular in recipes.
+ITM108,Carrot,SUP009,71,3.96,3.17,Vegetables,2025-04-18,Organic.
+ITM109,Apple,SUP069,83,5.25,4.20,Fruits,2025-04-16,Fresh from supplier.
+ITM110,Carrot,SUP023,1,1.03,0.82,Vegetables,2025-04-24,Seasonal favorite.
+ITM111,Herbs,SUP050,86,8.53,6.82,Spices,2025-04-17,Low stock - reorder soon.
+ITM112,Cheese,SUP010,76,3.43,2.74,Dairy,2025-04-25,Popular in recipes.
+ITM113,Bread,SUP084,60,9.21,7.37,Bakery,2025-04-22,Low stock - reorder soon.
+ITM114,Tomato,SUP039,97,3.72,2.98,Vegetables,2025-04-24,Imported product.
+ITM115,Banana,SUP061,96,6.0,4.80,Fruits,2025-04-19,Seasonal favorite.
+ITM116,Pastry,SUP059,83,1.77,1.42,Bakery,2025-04-15,Locally sourced.
+ITM117,Tomato,SUP077,12,1.08,0.86,Vegetables,2025-04-21,Locally sourced.
+ITM118,Cucumber,SUP040,94,4.12,3.30,Vegetables,2025-04-16,Locally sourced.
+ITM119,Cucumber,SUP011,76,1.59,1.27,Vegetables,2025-04-17,Low stock - reorder soon.
+ITM120,Tomato,SUP025,90,3.62,2.90,Vegetables,2025-04-18,Imported product.
+ITM121,Orange,SUP033,63,1.93,1.54,Fruits,2025-04-19,Baked fresh daily.
+ITM122,Milk,SUP012,94,3.17,2.54,Dairy,2025-04-16,Best-selling item.
+ITM123,Orange,SUP011,70,3.39,2.71,Fruits,2025-04-15,Used in salads.
+ITM124,Herbs,SUP061,8,1.09,0.87,Spices,2025-04-24,Imported product.
+ITM125,Butter,SUP031,73,3.54,2.83,Dairy,2025-04-25,Low stock - reorder soon.
+ITM126,Tomato,SUP014,82,1.5,1.20,Vegetables,2025-04-22,Low stock - reorder soon.
+ITM127,Carrot,SUP028,79,7.11,5.69,Vegetables,2025-04-23,Low stock - reorder soon.
+ITM128,Apple,SUP038,90,4.17,3.34,Fruits,2025-04-21,Used in salads.
+ITM129,Spinach,SUP057,75,5.61,4.49,Vegetables,2025-04-25,Imported product.
+ITM130,Pastry,SUP048,63,2.72,2.18,Bakery,2025-04-23,Baked fresh daily.
+ITM131,Tomato,SUP009,80,4.28,3.42,Vegetables,2025-04-15,Popular in recipes.
+ITM132,Spinach,SUP091,74,4.82,3.86,Vegetables,2025-04-21,Baked fresh daily.
+ITM133,Tomato,SUP092,83,8.92,7.14,Vegetables,2025-04-18,Popular in recipes.
+ITM134,Banana,SUP059,67,1.74,1.39,Fruits,2025-04-16,Popular in recipes.
+ITM135,Rice,SUP074,73,2.04,1.63,Grains,2025-04-21,Baked fresh daily.
+ITM136,Apple,SUP067,80,6.09,4.87,Fruits,2025-04-23,Best-selling item.
+ITM137,Yogurt,SUP091,74,2.46,1.97,Dairy,2025-04-23,Locally sourced.
+ITM138,Milk,SUP088,88,9.07,7.26,Dairy,2025-04-15,Baked fresh daily.
+ITM139,Banana,SUP021,84,7.61,6.09,Fruits,2025-04-21,Low stock - reorder soon.
+ITM140,Juice,SUP015,89,9.9,7.92,Beverages,2025-04-21,Best-selling item.
+ITM141,Apple,SUP068,85,5.26,4.21,Fruits,2025-04-19,Best-selling item.
+ITM142,Banana,SUP011,74,5.62,4.50,Fruits,2025-04-21,Best-selling item.
+ITM143,Tomato,SUP062,76,6.26,5.01,Vegetables,2025-04-25,Used in salads.
+ITM144,Banana,SUP094,86,2.63,2.10,Fruits,2025-04-15,Seasonal favorite.
+ITM145,Butter,SUP091,88,1.75,1.40,Dairy,2025-04-23,Seasonal favorite.
+ITM146,Herbs,SUP094,73,3.21,2.57,Spices,2025-04-22,Baked fresh daily.
+ITM147,Yogurt,SUP091,72,7.48,5.98,Dairy,2025-04-25,Popular in recipes.
+ITM148,Orange,SUP088,74,2.72,2.18,Fruits,2025-04-23,Popular in recipes.
+ITM149,Butter,SUP071,91,7.64,6.11,Dairy,2025-04-16,Locally sourced.
+ITM150,Pastry,SUP075,81,4.68,3.74,Bakery,2025-04-22,Imported product.
+ITM151,Cucumber,SUP085,77,1.47,1.18,Vegetables,2025-04-17,Organic.
+ITM152,Cucumber,SUP039,95,2.66,2.13,Vegetables,2025-04-21,Low stock - reorder soon.
+ITM153,Carrot,SUP047,75,3.58,2.86,Vegetables,2025-04-20,Low stock - reorder soon.
+ITM154,Yogurt,SUP069,89,4.1,3.28,Dairy,2025-04-21,Low stock - reorder soon.
+ITM155,Cheese,SUP043,96,9.05,7.24,Dairy,2025-04-18,Organic.
+ITM156,Spinach,SUP094,78,6.09,4.87,Vegetables,2025-04-19,Imported product.
+ITM157,Oil,SUP067,75,5.08,4.06,Oils,2025-04-19,Seasonal favorite.
+ITM158,Yogurt,SUP017,79,1.59,1.27,Dairy,2025-04-15,Popular in recipes.
+ITM159,Pastry,SUP046,83,1.78,1.42,Bakery,2025-04-19,Used in salads.
+ITM160,Spinach,SUP097,96,2.78,2.22,Vegetables,2025-04-23,Baked fresh daily.
+ITM161,Spinach,SUP082,64,1.69,1.35,Vegetables,2025-04-19,Used in salads.
+ITM162,Banana,SUP030,79,4.79,3.83,Fruits,2025-04-20,Locally sourced.
+ITM163,Carrot,SUP022,72,5.84,4.67,Vegetables,2025-04-20,Low stock - reorder soon.
+ITM164,Fish,SUP022,75,3.52,2.82,Seafood,2025-04-20,Fresh from supplier.
+ITM165,Butter,SUP039,72,8.17,6.54,Dairy,2025-04-22,Baked fresh daily.
+ITM166,Cheese,SUP047,71,1.64,1.31,Dairy,2025-04-23,Baked fresh daily.
+ITM167,Banana,SUP096,73,1.52,1.22,Fruits,2025-04-25,Used in salads.
+ITM168,Banana,SUP022,75,1.05,0.84,Fruits,2025-04-25,Popular in recipes.
+ITM169,Butter,SUP064,96,4.82,3.86,Dairy,2025-04-17,Popular in recipes.
+ITM170,Rice,SUP018,63,2.09,1.67,Grains,2025-04-24,Baked fresh daily.
+ITM171,Pastry,SUP049,86,6.99,5.59,Bakery,2025-04-23,Baked fresh daily.
+ITM172,Bread,SUP002,83,2.56,2.05,Bakery,2025-04-18,Low stock - reorder soon.
+ITM173,Cheese,SUP009,76,9.15,7.32,Dairy,2025-04-15,Low stock - reorder soon.
+ITM174,Pastry,SUP023,72,7.19,5.75,Bakery,2025-04-20,Popular in recipes.
+ITM175,Pastry,SUP099,76,3.34,2.67,Bakery,2025-04-15,Organic.
+ITM176,Lettuce,SUP051,75,7.16,5.73,Vegetables,2025-04-23,Used in salads.
+ITM177,Oil,SUP097,76,9.66,7.73,Oils,2025-04-19,Used in salads.
+ITM178,Milk,SUP040,90,8.74,6.99,Dairy,2025-04-17,Organic.
+ITM179,Butter,SUP081,80,1.38,1.10,Dairy,2025-04-24,Fresh from supplier.
+ITM180,Banana,SUP081,94,2.02,1.62,Fruits,2025-04-15,Low stock - reorder soon.
+ITM181,Apple,SUP082,83,5.63,4.50,Fruits,2025-04-25,Baked fresh daily.
+ITM182,Milk,SUP063,88,2.34,1.87,Dairy,2025-04-19,Seasonal favorite.
+ITM183,Oil,SUP085,50,2.03,1.62,Oils,2025-05-20,Baked fresh daily.
+ITM184,Tomato,SUP017,85,5.7,4.56,Vegetables,2025-04-23,Best-selling item.
+ITM185,Banana,SUP036,68,6.37,5.10,Fruits,2025-04-22,Low stock - reorder soon.
+ITM186,Orange,SUP070,67,6.1,4.88,Fruits,2025-04-19,Fresh from supplier.
+ITM187,Herbs,SUP021,84,7.17,5.74,Spices,2025-04-16,Imported product.
+ITM188,Tomato,SUP003,91,9.45,7.56,Vegetables,2025-05-23,Seasonal favorite.
+ITM189,Fish,SUP057,76,2.73,2.18,Seafood,2025-04-25,Seasonal favorite.
+ITM190,Fish,SUP049,60,3.12,2.50,Seafood,2025-04-15,Baked fresh daily.
+ITM191,Herbs,SUP001,97,4.07,3.26,Spices,2025-04-16,Fresh from supplier.
+ITM192,Bread,SUP087,0,7.42,5.94,Bakery,2025-04-15,Imported product.
+ITM193,Banana,SUP091,72,6.43,5.14,Fruits,2025-04-20,Seasonal favorite.
+ITM194,Apple,SUP057,83,3.56,2.85,Fruits,2025-04-16,Popular in recipes.
+ITM195,Spinach,SUP086,69,7.29,5.83,Vegetables,2025-04-24,Low stock - reorder soon.
+ITM196,Pastry,SUP035,67,2.53,2.02,Bakery,2025-04-15,Imported product.
+ITM197,Herbs,SUP051,94,7.27,5.82,Spices,2025-04-22,Locally sourced.
+ITM198,Juice,SUP046,80,4.58,3.66,Beverages,2025-04-15,Best-selling item.
+ITM199,Cheese,SUP098,81,1.43,1.14,Dairy,2025-04-16,Low stock - reorder soon.
+ITM200,Bread,SUP067,82,3.84,3.07,Bakery,2025-04-19,Best-selling item.
+ITM201,Fish,SUP058,77,4.11,3.29,Seafood,2025-04-24,Best-selling item.
+ITM202,Juice,SUP034,83,6.08,4.86,Beverages,2025-04-21,Baked fresh daily.
+ITM203,Apple,SUP042,80,9.68,7.74,Fruits,2025-04-22,Fresh from supplier.
+ITM204,Cheese,SUP052,92,6.28,5.02,Dairy,2025-04-18,Fresh from supplier.
+ITM205,Oil,SUP053,73,1.2,0.96,Oils,2025-04-22,Best-selling item.
+ITM206,Carrot,SUP008,89,9.71,7.77,Vegetables,2025-04-16,Imported product.
+ITM207,Herbs,SUP077,75,1.79,1.43,Spices,2025-04-21,Baked fresh daily.
+ITM208,Butter,SUP027,80,3.01,2.41,Dairy,2025-04-25,Low stock - reorder soon.
+ITM209,Herbs,SUP043,82,7.94,6.35,Spices,2025-04-17,Low stock - reorder soon.
+ITM210,Oil,SUP067,65,3.25,2.60,Oils,2025-04-21,Imported product.
+ITM211,Lettuce,SUP091,89,7.31,5.85,Vegetables,2025-04-22,Popular in recipes.
+ITM212,Fish,SUP043,91,9.66,7.73,Seafood,2025-04-20,Imported product.
+ITM213,Banana,SUP098,73,9.64,7.71,Fruits,2025-04-17,Imported product.
+ITM214,Lettuce,SUP023,82,5.1,4.08,Vegetables,2025-04-16,Imported product.
+ITM215,Spinach,SUP021,67,1.98,1.58,Vegetables,2025-04-19,Imported product.
+ITM216,Orange,SUP028,81,7.84,6.27,Fruits,2025-04-25,Locally sourced.
+ITM217,Bread,SUP042,67,4.04,3.23,Bakery,2025-04-22,Baked fresh daily.
+ITM218,Pastry,SUP031,67,5.64,4.51,Bakery,2025-04-17,Locally sourced.
+ITM219,Spinach,SUP078,73,7.55,6.04,Vegetables,2025-04-16,Seasonal favorite.
+ITM220,Cucumber,SUP094,76,3.22,2.58,Vegetables,2025-04-18,Seasonal favorite.
+ITM221,Butter,SUP046,85,6.23,4.98,Dairy,2025-04-22,Used in salads.
+ITM222,Rice,SUP070,76,4.08,3.26,Grains,2025-04-15,Fresh from supplier.
+ITM223,Tomato,SUP024,79,9.25,7.40,Vegetables,2025-04-15,Baked fresh daily.
+ITM224,Butter,SUP060,80,3.33,2.66,Dairy,2025-04-17,Baked fresh daily.
+ITM225,Milk,SUP040,82,2.18,1.74,Dairy,2025-04-17,Imported product.
+ITM226,Cheese,SUP057,73,7.3,5.84,Dairy,2025-04-23,Imported product.
+ITM227,Oil,SUP063,82,7.87,6.30,Oils,2025-04-24,Organic.
+ITM228,Yogurt,SUP024,94,3.72,2.98,Dairy,2025-04-15,Seasonal favorite.
+ITM229,Butter,SUP036,80,2.98,2.38,Dairy,2025-04-23,Organic.
+ITM230,Banana,SUP040,86,2.42,1.94,Fruits,2025-04-18,Popular in recipes.
+ITM231,Tomato,SUP028,73,1.93,1.54,Vegetables,2025-04-21,Imported product.
+ITM232,Rice,SUP088,85,4.7,3.76,Grains,2025-04-17,Baked fresh daily.
+ITM233,Herbs,SUP098,76,8.57,6.86,Spices,2025-04-19,Locally sourced.
+ITM234,Oil,SUP054,70,6.48,5.18,Oils,2025-04-16,Popular in recipes.
+ITM235,Fish,SUP018,72,1.85,1.48,Seafood,2025-04-15,Popular in recipes.
+ITM236,Fish,SUP098,90,7.82,6.26,Seafood,2025-04-21,Baked fresh daily.
+ITM237,Cheese,SUP022,67,5.65,4.52,Dairy,2025-04-19,Used in salads.
+ITM238,Oil,SUP060,86,9.32,7.46,Oils,2025-04-18,Imported product.
+ITM239,Lettuce,SUP067,83,9.21,7.37,Vegetables,2025-04-21,Low stock - reorder soon.
+ITM240,Banana,SUP077,82,1.38,1.10,Fruits,2025-04-16,Organic.
+ITM241,Oil,SUP056,70,2.11,1.69,Oils,2025-04-21,Locally sourced.
+ITM242,Orange,SUP034,74,9.28,7.42,Fruits,2025-04-18,Popular in recipes.
+ITM243,Spinach,SUP002,75,3.89,3.11,Vegetables,2025-04-15,Low stock - reorder soon.
+ITM244,Apple,SUP079,72,6.06,4.85,Fruits,2025-04-19,Fresh from supplier.
+ITM245,Carrot,SUP087,78,1.12,0.90,Vegetables,2025-04-18,Used in salads.
+ITM246,Butter,SUP082,78,6.69,5.35,Dairy,2025-04-20,Popular in recipes.
+ITM247,Spinach,SUP044,88,1.05,0.84,Vegetables,2025-04-17,Locally sourced.
+ITM248,Milk,SUP066,67,8.77,7.02,Dairy,2025-04-21,Locally sourced.
+ITM249,Cucumber,SUP025,92,7.93,6.34,Vegetables,2025-04-24,Imported product.
+ITM250,Apple,SUP040,60,8.53,6.82,Fruits,2025-04-19,Used in salads.
+ITM251,Onion,SUP056,81,5.77,4.62,Vegetables,2025-04-23,Best-selling item.
+ITM252,Butter,SUP006,98,3.12,2.50,Dairy,2025-04-24,Low stock - reorder soon.
+ITM253,Orange,SUP047,19,2.8,2.24,Fruits,2025-04-25,Baked fresh daily.
+ITM254,Oil,SUP016,54,7.84,6.27,Oils,2025-04-15,Organic.
+ITM255,Oil,SUP100,96,2.84,2.27,Oils,2025-04-18,Baked fresh daily.
+ITM256,Tomato,SUP052,79,1.87,1.50,Vegetables,2025-04-15,Baked fresh daily.
+ITM257,Cucumber,SUP076,54,9.29,7.43,Vegetables,2025-04-19,Organic.
+ITM258,Pastry,SUP042,67,9.39,7.51,Bakery,2025-04-15,Popular in recipes.
+ITM259,Cheese,SUP046,53,5.9,4.72,Dairy,2025-04-21,Used in salads.
+ITM260,Butter,SUP024,21,1.56,1.25,Dairy,2025-04-18,Locally sourced.
+ITM261,Lettuce,SUP069,33,8.33,6.66,Vegetables,2025-04-19,Locally sourced.
+ITM262,Herbs,SUP007,86,1.93,1.54,Spices,2025-04-22,Fresh from supplier.
+ITM263,Juice,SUP033,12,1.39,1.11,Beverages,2025-04-24,Imported product.
+ITM264,Milk,SUP081,96,4.55,3.64,Dairy,2025-04-18,Baked fresh daily.
+ITM265,Cucumber,SUP045,12,1.87,1.50,Vegetables,2025-04-25,Organic.
+ITM266,Apple,SUP091,31,8.48,6.78,Fruits,2025-04-24,Low stock - reorder soon.
+ITM267,Cheese,SUP012,36,6.53,5.22,Dairy,2025-04-15,Popular in recipes.
+ITM268,Milk,SUP088,25,3.76,3.01,Dairy,2025-04-25,Locally sourced.
+ITM269,Spinach,SUP016,26,2.29,1.83,Vegetables,2025-04-23,Popular in recipes.
+ITM270,Cucumber,SUP100,30,6.31,5.05,Vegetables,2025-04-21,Seasonal favorite.
+ITM271,Apple,SUP079,10,5.42,4.34,Fruits,2025-04-22,Organic.
+ITM272,Herbs,SUP072,95,1.24,0.99,Spices,2025-04-15,Fresh from supplier.
+ITM273,Cucumber,SUP063,12,8.81,7.05,Vegetables,2025-04-18,Best-selling item.
+ITM274,Onion,SUP085,87,2.68,2.14,Vegetables,2025-04-19,Baked fresh daily.
+ITM275,Pastry,SUP071,86,5.86,4.69,Bakery,2025-04-24,Used in salads.
+ITM276,Onion,SUP063,91,6.78,5.42,Vegetables,2025-04-22,Fresh from supplier.
+ITM277,Cheese,SUP100,75,2.9,2.32,Dairy,2025-04-18,Fresh from supplier.
+ITM278,Herbs,SUP060,32,6.85,5.48,Spices,2025-04-15,Baked fresh daily.
+ITM279,Milk,SUP097,95,8.99,7.19,Dairy,2025-04-21,Baked fresh daily.
+ITM280,Oil,SUP002,82,4.28,3.42,Oils,2025-04-24,Organic.
+ITM281,Rice,SUP046,91,6.85,5.48,Grains,2025-04-18,Imported product.
+ITM282,Yogurt,SUP075,15,8.76,7.01,Dairy,2025-04-20,Seasonal favorite.
+ITM283,Butter,SUP052,64,1.8,1.44,Dairy,2025-04-15,Organic.
+ITM284,Pastry,SUP084,90,3.56,2.85,Bakery,2025-04-19,Used in salads.
+ITM285,Apple,SUP008,94,6.06,4.85,Fruits,2025-04-15,Organic.
+ITM286,Butter,SUP030,23,5.15,4.12,Dairy,2025-04-19,Low stock - reorder soon.
+ITM287,Oil,SUP017,23,6.76,5.41,Oils,2025-04-25,Low stock - reorder soon.
+ITM288,Cucumber,SUP094,74,7.47,5.98,Vegetables,2025-04-16,Best-selling item.
+ITM289,Banana,SUP022,0,8.53,6.82,Fruits,2025-04-24,Baked fresh daily.
+ITM291,Apple,SUP026,52,4.3,3.44,Fruits,2025-04-17,Popular in recipes.
+ITM292,Herbs,SUP010,19,8.96,7.17,Spices,2025-04-15,Used in salads.
+ITM293,Tomato,SUP088,83,2.68,2.14,Vegetables,2025-04-20,Best-selling item.
+ITM294,Carrot,SUP053,60,8.19,6.55,Vegetables,2025-04-16,Popular in recipes.
+ITM295,Pastry,SUP019,25,5.01,4.01,Bakery,2025-04-25,Seasonal favorite.
+ITM296,Milk,SUP095,37,2.32,1.86,Dairy,2025-04-15,Low stock - reorder soon.
+ITM297,Rice,SUP027,67,6.7,5.36,Grains,2025-04-20,Fresh from supplier.
+ITM298,Butter,SUP001,55,8.73,6.98,Dairy,2025-04-22,Fresh from supplier.
+ITM299,Butter,SUP022,77,8.37,6.70,Dairy,2025-04-16,Popular in recipes.
+ITM307,Milo,SUP001,70,2.8,1,Juices,2025-05-26,Chocolate drink
+ITM308,fruta,SUP001,15,3,2,fruits,2025-06-02,juice
+ITM309,disfruta,SUP102,65,3,2,Juice,2025-06-02,juicy

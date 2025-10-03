@@ -1,0 +1,26 @@
+PR001,ITM001,Tomato,20,2025-06-01,SUP001,OW001,High,Restocking for high demand,Approved
+PR002,ITM002,Cucumber,50,2025-05-05,SUP002,OW003,Medium,Weekly vegetable supply,Rejected
+PR003,ITM003,Cheese,15,2025-05-12,SUP003,OW004,High,Prep for cheese promotion,Approved
+PR004,ITM004,Bread,40,2025-06-01,SUP003,OW006,Low,Daily fresh stock,Rejected
+PR005,ITM005,Carrot,50,2025-05-12,SUP001,OW007,Medium,Expected soup orders,Rejected
+PR006,ITM006,Apple,25,2025-06-02,SUP004,OW008,High,Fruit stock running low,Rejected
+PR007,ITM007,Yogurt,18,2025-06-02,SUP005,OW009,Low,Dairy refresh,Approved
+PR008,ITM008,Lettuce,50,2025-06-02,SUP003,OW004,Medium,For salad menu,Approved
+PR009,ITM009,Milk,36,2025-05-10,SUP002,OW001,High,For breakfast service,Approved
+PR010,ITM010,Butter,12,2025-06-02,SUP003,OW007,Medium,Baking ingredient refill,Rejected
+PR012,ITM301,sbai,50,2025-05-12,SUP001,OW011,High,df,Approved
+PR013,ITM297,Rice,50,2025-05-12,SUP027,OW011,High,bbb,Approved
+PR014,ITM014,Spinach,50,2025-05-15,SUP032,OW011,High,azerty,Rejected
+PR015,ITM124,Herbs,50,2025-05-20,SUP061,OW011,High,fgv,Approved
+PR016,ITM290,Fish,60,2025-05-15,SUP003,OW011,Medium,,Approved
+PR017,ITM302,jun,51,2025-06-01,SUP007,OW011,Medium,azerty,Approved
+PR018,ITM110,Carrot,50,2025-05-20,SUP023,OW011,High,,Cancelled
+PR019,ITM292,Herbs,40,2025-06-01,SUP010,OW011,High,,Rejected
+PR020,ITM117,Tomato,50,2025-06-01,SUP077,OW011,High,,Approved
+PR021,ITM253,Orange,50,2025-06-01,SUP047,OW011,Medium,nn,Rejected
+PR022,ITM303,y,50,2025-05-26,SUP001,OW053,High,,Approved
+PR023,ITM304,w,50,2025-05-26,SUP009,OW053,High,,Approved
+PR025,ITM265,Cucumber,50,2025-05-26,SUP045,OW053,Medium,,Rejected
+PR026,ITM307,Milo,70,2025-06-02,SUP001,OW011,High,,Approved
+PR028,ITM309,disfruta,50,2025-06-02,SUP102,OW011,High,urgent,Approved
+PR029,ITM263,Juice,50,2025-10-06,SUP001,OW011,High,,Pending
