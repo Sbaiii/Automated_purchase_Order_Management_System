@@ -59,3 +59,22 @@ The system implements **role-based dashboards** (Admin, Sales, Purchase, Finance
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/4cccaa2b-ed19-472f-8985-ce2c8f4d7fcc" />
 
 
+---
+
+## Future Improvements
+	•	Replace text file storage with SQLite/MySQL
+	•	Add encryption for user credentials
+	•	Enhance UI with JavaFX or modern UI libraries
+	•	Implement automated unit testing
+
+---
+## Author
+
+Abdellah Sbai
+BSc (Hons) Computer Science (Data Analytics), Asia Pacific University
+	•	LinkedIn:  https://www.linkedin.com/in/abdellahsbai/
+	•	GitHub:    https://github.com/Sbaiii
+
+
+
+
