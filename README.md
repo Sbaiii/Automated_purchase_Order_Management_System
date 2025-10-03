@@ -72,6 +72,7 @@ The system implements **role-based dashboards** (Admin, Sales, Purchase, Finance
 
 Abdellah Sbai
 BSc (Hons) Computer Science (Data Analytics), Asia Pacific University
+
 	•	LinkedIn:  https://www.linkedin.com/in/abdellahsbai/
 	•	GitHub:    https://github.com/Sbaiii
 
